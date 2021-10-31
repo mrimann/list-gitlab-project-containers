@@ -9,7 +9,8 @@ So the goal of this script is to enumerate all projects and generate a list like
 ```
 (...)
 OK, the following container images are used:
-image: registry.example.org/infrastruktur/docker-surf-deploy:focal	->  Project A
+image: registry.example.org/infrastruktur/docker-surf-deploy:focal
+	->  Project A
 	->  Project B
 	->  Project C
 image: ubuntu:xenial
