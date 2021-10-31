@@ -1,0 +1,4 @@
+[my-gitlab]
+url = https://gitlab.YOURDOMAIN.TLD
+private_token = TOP_SECRET
+api_version = 4
