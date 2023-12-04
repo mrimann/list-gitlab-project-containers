@@ -27,7 +27,7 @@ sudo pip install python-gitlab
 Create a `gitlab.cfg` file in this repository containing the configuration, see `gitlab.cfg_example` for an example. You'll need
 
 - the URL of your Gitlab instance, e.g. "https://gitlab.example.org"
-- a personal access token for this gitlab installation
+- a personal access token for this gitlab installation (needs API permission)
 
 ## Usage
 Once configured, you can simply run the script and see it's output with:
