@@ -22,7 +22,7 @@ image: ubuntu:xenial
 ## Installation + Preparation
 Install the `python-gitlab` package, e.g. via pip:
 ```
-sudo pip install python-gitlab
+pip3 install -r requirements.txt
 ```
 Create a `gitlab.cfg` file in this repository containing the configuration, see `gitlab.cfg_example` for an example. You'll need
 
